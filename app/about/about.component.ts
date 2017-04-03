@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
     selector: 'about-page',
     template: `
-        about page
+        about page :)
     `
 })
-export class AboutComponent {}
+export class AboutComponent { }
